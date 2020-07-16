@@ -39,8 +39,6 @@ def game():
         print("You are hanged!")
         
 
-# start_end = input('Type "play" to play the game, "exit" to quit: ')
-
 while True:
     start_end = input('Type "play" to play the game, "exit" to quit: ')
     if start_end == "play":
